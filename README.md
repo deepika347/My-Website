@@ -1,2 +1,2 @@
 # My-Website
-This website is created with the React which is popular framework of the java script and the react is all about the components .
+This Website Is Created With The React Which Is Popular Framework Of The Java Script And The React Is All About The Components .
